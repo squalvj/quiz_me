@@ -58,19 +58,6 @@ export default function Home() {
           <img src="/vercel.svg" alt="Vercel Logo" className="logo" />
         </a>
       </footer>
-
-      <style jsx global>{`
-        html,
-        body {
-          padding: 0;
-          margin: 0;
-          font-family: Roboto;
-        }
-
-        * {
-          box-sizing: border-box;
-        }
-      `}</style>
     </div>
   )
 }
